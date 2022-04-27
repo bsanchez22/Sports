@@ -1,6 +1,4 @@
-import json
-import requests
-import pandas as pd
+import json,requests,pandas as pd
 
 base_url="https://api.sportradar.us/soccer/trial/v4/en/seasons/sr:season:66441/standings.jsonapi_key=apikey"
 
